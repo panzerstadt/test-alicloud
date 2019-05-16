@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/test-alicloud/precache-manifest.a32c118648bad2f5749e4c3f7eb7d54c.js"
+  "/test-alicloud/precache-manifest.b210005ffe27c637ed981f1c970f4715.js"
 );
 
 self.addEventListener('message', (event) => {

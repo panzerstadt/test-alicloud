@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aac46ef7a8aeeacc9b2b4896a7b1721e",
+    "revision": "a06a0a7a845f0daeb3f73c9d86bb26ad",
     "url": "/test-alicloud/index.html"
   },
   {
-    "revision": "41e8d752a937cb74de99",
+    "revision": "211a982045a93fd321b1",
     "url": "/test-alicloud/static/css/main.880fc421.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-alicloud/static/js/2.6b514063.chunk.js"
   },
   {
-    "revision": "41e8d752a937cb74de99",
-    "url": "/test-alicloud/static/js/main.af4fd522.chunk.js"
+    "revision": "211a982045a93fd321b1",
+    "url": "/test-alicloud/static/js/main.b812f353.chunk.js"
   },
   {
     "revision": "78199a9f874d657f5c25",
