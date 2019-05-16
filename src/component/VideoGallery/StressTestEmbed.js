@@ -5,7 +5,7 @@ const YoukuEmbed = () => {
     <iframe
       height="498"
       width="510"
-      src="http://player.youku.com/embed/XMzI1NzA2MzE2MA=="
+      src="https://player.youku.com/embed/XMzI1NzA2MzE2MA=="
       frameborder="0"
       allowfullscreen
     />

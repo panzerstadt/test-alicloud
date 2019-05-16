@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <p>v1</p>
         <img src={logo} className="App-logo" alt="logo" />
         <h1>select test type</h1>
         <select onChange={e => setType(e.target.value)}>
