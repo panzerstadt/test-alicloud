@@ -1,23 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import logo from "./logo.svg";
+import "./App.css";
+
+import Test from "./component/VideoGallery";
 
 function App() {
+  const [type, setType] = useState("gallery");
+
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>select test type</h1>
+        <select onChange={e => setType(e.target.value)}>
+          <option value="all">Basic Test</option>
+          <option value="local">Local files stress test</option>
+          <option value="embed">Embed files stress test</option>
+        </select>
+        <Test type={type} />
       </header>
     </div>
   );
