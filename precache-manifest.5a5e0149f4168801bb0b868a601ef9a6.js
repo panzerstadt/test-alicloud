@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea0b2664abb11cd57dc7a03aecb0918d",
+    "revision": "703d4e15165890719ed206aeb250a3e7",
     "url": "https://panzerstadt.github.io/test-alicloud/index.html"
   },
   {
-    "revision": "985bb030203ba322d919",
+    "revision": "b769b21baf5bb538468f",
     "url": "https://panzerstadt.github.io/test-alicloud/static/css/main.880fc421.chunk.css"
   },
   {
-    "revision": "dfe370b050c4f5b80ccd",
-    "url": "https://panzerstadt.github.io/test-alicloud/static/js/2.6b514063.chunk.js"
+    "revision": "5abc859d2361b6829368",
+    "url": "https://panzerstadt.github.io/test-alicloud/static/js/2.134e00d2.chunk.js"
   },
   {
-    "revision": "985bb030203ba322d919",
-    "url": "https://panzerstadt.github.io/test-alicloud/static/js/main.8f2af83f.chunk.js"
+    "revision": "b769b21baf5bb538468f",
+    "url": "https://panzerstadt.github.io/test-alicloud/static/js/main.7b77e057.chunk.js"
   },
   {
     "revision": "8e157ed135f5e9ff5925",

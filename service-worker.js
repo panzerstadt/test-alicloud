@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://panzerstadt.github.io/test-alicloud/precache-manifest.b2c2263ebb26b0794a1bd90c878496d8.js"
+  "https://panzerstadt.github.io/test-alicloud/precache-manifest.5a5e0149f4168801bb0b868a601ef9a6.js"
 );
 
 self.addEventListener('message', (event) => {
